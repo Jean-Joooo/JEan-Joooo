@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Jean-Joooo/Jean-Joooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Jean-Joseph
 
-Here are some ideas to get you started:
+<img width="280" src="https://github.com/Jean-Joooo/Jean-Joooo/assets/124114074/d76adcb2-b1d8-46d0-bd31-b84dc3a7fbe3" alt="Material Bread logo">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A full stack developer with experiences in Front-end layer, Back-end layer, and Database layer
+
+My main skills :
+- Languages: HTML, CSS, JavaScript, TypeScript, Python, php
+- Libraries & Frameworks: jQuery, React, Django, Node.js frameworks (Express.js, Next.js), Material UI, and Bootstrap
+- Version Control: Git & GitHub
+- Cloud Technologies: Cloud Native practices, DevOps, CI/CD
+- Containerization: Docker, Kubernetes, OpenShift
+- Database Management: SQL, NoSQL
+- Cybersecurity: Application Security best practices
+- Microservices and Serverless Computing
+- Good SEO practices
+- CMS : WordPress
+
+Some of my works : 
+
+- https://www.balagnemedical.com/
+- https://domus-medica-calenzana.com/
+- https://www.optimaljob.fr/
+
+My portfolio :
+
+https://www.fullstack-dev-seo.com/
